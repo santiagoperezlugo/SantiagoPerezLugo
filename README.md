@@ -11,5 +11,5 @@ My name is Santiago and I am a third year at the University of Virginia!
 - ⚡ Fun fact: I was born in Mexico and am bilingual!  
 <br>
 
-- 📫 I’m currently looking for a Summer 2025 Internship.  
+- 📫 I’m currently looking for a Summer 2026 Internship.  
     - If you think you are a good fit, reach me at: perezlugosantiago@gmail.com
