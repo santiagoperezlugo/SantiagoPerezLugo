@@ -1,11 +1,11 @@
 ## Hi there 👋
 My name is Santiago and I am a third year at the University of Virginia!
 
-- 🔭 I’m currently working on [Vista](https://github.com/santiagoperezlugo/Vista), a model that suggests TV shows based on your viewing preferences and watch history, featuring a database of over 30,000 movies and personalized recommendation scores  
+- 🏀 I **recently** built [Ti-Hoops](https://github.com/santiagoperezlugo/Ti-Hoops), a model trained on 50,000 NBA games and allows users to run accurate, custom NBA game simulations  
+    - Check it out here: https://www.ti-hoops.com/  
 <br>
 
-- 🏀 I recently built [Ti-Hoops](https://github.com/santiagoperezlugo/Ti-Hoops), a model trained on 50,000 NBA games and allows users to run accurate, custom NBA game simulations  
-    - Check it out here: https://www.ti-hoops.com/  
+- 🔭 I **previously** worked on [Vista](https://github.com/santiagoperezlugo/Vista), a recommendation model suggesting TV shows based on your viewing preferences and watch history, featuring a database of over 30,000 movies and personalized recommendation scores  
 <br>
 
 - ⚡ Fun fact: I was born in Mexico and am bilingual!  
